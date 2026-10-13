@@ -138,7 +138,9 @@ Lucknow Institute of Technology, Lucknow
 <a href="https://linkedin.com/in/snehaydv01">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B72CF,100:1B1035&height=80&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=22" width="100%" alt="Thanks for visiting"/>
