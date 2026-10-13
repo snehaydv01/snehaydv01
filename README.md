@@ -90,8 +90,8 @@ Aspiring to contribute as an entry-level **Java Full Stack Developer / Software 
 
 ## 🤝 Let's Connect
 
-- **GitHub:** github.com/snehaydv01
-- **LinkedIn:** linkedin.com/in/snehaydv01
+- **GitHub:** [Visit my GitHub](https://github.com/snehaydv01)
+- **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/snehaydv01)
 - **Email:** snehayadav45901@gmail.com
 
 *Always eager to learn, build, and collaborate on impactful software projects!*
